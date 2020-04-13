@@ -1,3 +1,6 @@
+Course completion and site activity ###
+How many courses are completed, total number of courses to be completed for each student ###
+
 SELECT t1.userid as "Nutzer-ID",
     u.firstname as "Vorname",
     u.lastname as "Nachname",
